@@ -24,6 +24,7 @@
 		A17F73F724B9984D00DFF178 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A17F73FA24B9984D00DFF178 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A17F73FC24B9984D00DFF178 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A17F740224B9F8C200DFF178 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 		A17F73E224B9984A00DFF178 = {
 			isa = PBXGroup;
 			children = (
+				A17F740224B9F8C200DFF178 /* README.md */,
 				A17F73ED24B9984A00DFF178 /* tg-storyboard */,
 				A17F73EC24B9984A00DFF178 /* Products */,
 			);
